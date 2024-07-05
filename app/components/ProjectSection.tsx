@@ -35,7 +35,7 @@ const ProjectSection = () => {
 							alt={`${project.name} preview`}
 							width={350}
 							height={100}
-							className='rounded-t-md'
+							className='rounded-t-md aspect-auto'
 						/>
 						<div className='py-5 px-2 bg-black group-hover:bg-neutral-800/30 rounded-b-lg'>
 							<h4>{project.name}</h4>

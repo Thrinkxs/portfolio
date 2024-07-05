@@ -19,7 +19,7 @@ const HeroSection = () => {
           </span>
         </h1>
         <p className="max-w-lg text-[0.9rem] md:text-[1.1rem] opacity-90 mb-3">
-          I specialize in crafting intuitive digital solutions that seamlessly
+          I specialize in building highly secured and scaleable applications that help solve customers problems by crafting intuitive digital solutions that seamlessly
           blend creative vision with user-centric design, simplifying complexity
           to deliver exceptional user experiences.
         </p>
