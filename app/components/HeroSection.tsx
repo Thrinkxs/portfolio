@@ -35,7 +35,7 @@ const HeroSection = () => {
             alt="Emmanuel's memoji"
             width={350}
             height={200}
-            onLoadingComplete={() => setloading(false)}
+            onLoad={() => setloading(false)}
             priority
             className="bg-black/95 rounded-full w-auto h-auto"
           />

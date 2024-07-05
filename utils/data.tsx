@@ -212,5 +212,26 @@ export const projects = [
 		codeLink: 'https://github.com/Team-Hack-IT/OmniAuth',
 		image: '/projects/omn.png',
 	},
-	
+	{
+		name: 'Medicare',
+		category: 'HealthTech App / Blockchain',
+		shortDesc: 'Clinic management system to help doctors and private clinics manage their patients and day to day operations',
+		longDesc:
+			'Medicare Hub is a clinic management software that helps doctors and private clinics manage their patients and day to day operations. It also provides a decentralized blockchian system that allows patients to have full control over their medical records and be able to use it anywhere in the world, and also allows doctors to easily access patient records. It also allows patients to book appointments with doctors and also allows doctors to easily manage their appointments.',
+		built: 'Next JS, Typescript, Tailwind CSS, Solidity, Postgres SQL, Supabase, OpenAI, Next Auth ',
+		siteLink: 'https://medicare.vercel.app/',
+		codeLink: 'https://github.com/',
+		image: '/projects/medicare.png',
+	},
+	{
+		name: 'Swiftbooked',
+		category: 'Booking Appointment App',
+		shortDesc: 'Swiftbooked is a booking application that hair salon owners, spa and nail technicians  to book an appointment with their users ',
+		longDesc:
+			'Swiftbooked is an booking application for users to book appointments with their hair salon owners, spa and nail technicians to book appointment with their clients',
+		built: 'Next JS, Typescript, Tailwind CSS, Express, Mongo DB, Google Calendar API, Paystack API, Ozow API ',
+		siteLink: 'https://swiftbooked.com',
+		codeLink: 'https://github.com/',
+		image: '/projects/swiftbooked.png',
+	},
 ];
