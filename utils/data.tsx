@@ -105,7 +105,7 @@ export const frontendTools = [
 		color: '#ffffff',
 	},
 	{
-		name: 'Djangp',
+		name: 'Django',
 		image: '/icons/file-type-django.svg',
 		color: '#ffffff',
 	},
