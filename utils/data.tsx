@@ -220,7 +220,7 @@ export const projects = [
 			'Medicare Hub is a clinic management software that helps doctors and private clinics manage their patients and day to day operations. It also provides a decentralized blockchian system that allows patients to have full control over their medical records and be able to use it anywhere in the world, and also allows doctors to easily access patient records. It also allows patients to book appointments with doctors and also allows doctors to easily manage their appointments.',
 		built: 'Next JS, Typescript, Tailwind CSS, Solidity, Postgres SQL, Supabase, OpenAI, Next Auth ',
 		siteLink: 'https://medicare.vercel.app/',
-		codeLink: 'https://github.com/',
+		codeLink: 'https://github.com/Thrinkxs',
 		image: '/projects/medicare.png',
 	},
 	{
@@ -231,7 +231,7 @@ export const projects = [
 			'Swiftbooked is an booking application for users to book appointments with their hair salon owners, spa and nail technicians to book appointment with their clients',
 		built: 'Next JS, Typescript, Tailwind CSS, Express, Mongo DB, Google Calendar API, Paystack API, Ozow API ',
 		siteLink: 'https://swiftbooked.com',
-		codeLink: 'https://github.com/',
+		codeLink: 'https://github.com/Thrinkxs',
 		image: '/projects/swiftbooked.png',
 	},
 	{
@@ -242,7 +242,7 @@ export const projects = [
 			'Zoe Transport is a car booking software that allows users to book cars for their trips.',
 		built: 'Next JS, Typescript, Tailwind CSS, Express, Mongo DB, Google Maps API, Payfast API, Shadcn UI ',
 		siteLink: 'https://zoe-transport.vercel.app',
-		codeLink: 'https://github.com/',
+		codeLink: 'https://github.com/Thrinkxs',
 		image: '/projects/zoe.png',
 	},
 	{
@@ -253,7 +253,7 @@ export const projects = [
 			'Opa Students is a student management software that allows students to book accomodation and also allows landlords to manage their properties.',
 		built: 'Django, Boostrap,Postgres SQL, HTML, CSS, JavaScript ',
 		siteLink: 'https://opalstudents.co.za',
-		codeLink: 'https://github.com/',
+		codeLink: 'https://github.com/Thrinkxs',
 		image: '/projects/opal.png',
 	},
 	{
@@ -264,7 +264,7 @@ export const projects = [
 			'Realtnic is a property management software that allows real estate companies to manage their properties and also allows users to book properties.',
 		built: 'Next JS, Typescript, Tailwind CSS, Express, Postgres SQL, Supabase ',
 		siteLink: 'https://realtinic.vercel.app' || 'https://realtnic.com',
-		codeLink: 'https://github.com/',
+		codeLink: 'https://github.com/Thrinkxs',
 		image: '/projects/realtnic.png',
 	},
 ];
