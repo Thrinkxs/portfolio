@@ -263,7 +263,7 @@ export const projects = [
 		longDesc:
 			'Realtnic is a property management software that allows real estate companies to manage their properties and also allows users to book properties.',
 		built: 'Next JS, Typescript, Tailwind CSS, Express, Postgres SQL, Supabase ',
-		siteLink: 'https://realtnic.vercel.app' || 'https://realtnic.com',
+		siteLink: 'https://realtinic.vercel.app' || 'https://realtnic.com',
 		codeLink: 'https://github.com/',
 		image: '/projects/realtnic.png',
 	},
