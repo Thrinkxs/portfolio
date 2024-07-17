@@ -234,4 +234,37 @@ export const projects = [
 		codeLink: 'https://github.com/',
 		image: '/projects/swiftbooked.png',
 	},
+	{
+		name: 'Zoe Transport',
+		category: 'Car Booking Software',
+		shortDesc: 'Uber-like car booking software for private booking',
+		longDesc:
+			'Zoe Transport is a car booking software that allows users to book cars for their trips.',
+		built: 'Next JS, Typescript, Tailwind CSS, Express, Mongo DB, Google Maps API, Payfast API, Shadcn UI ',
+		siteLink: 'https://zoe-transport.vercel.app',
+		codeLink: 'https://github.com/',
+		image: '/projects/zoe.png',
+	},
+	{
+		name: 'Opal Students',
+		category: 'Sudent management software',
+		shortDesc: 'Student management software for private accomodation',
+		longDesc:
+			'Opa Students is a student management software that allows students to book accomodation and also allows landlords to manage their properties.',
+		built: 'Django, Boostrap,Postgres SQL, HTML, CSS, JavaScript ',
+		siteLink: 'https://opalstudents.co.za',
+		codeLink: 'https://github.com/',
+		image: '/projects/opal.png',
+	},
+	{
+		name: 'Realtnic',
+		category: 'Property Management Software',
+		shortDesc: 'Property Management Software for real estate companies',
+		longDesc:
+			'Realtnic is a property management software that allows real estate companies to manage their properties and also allows users to book properties.',
+		built: 'Next JS, Typescript, Tailwind CSS, Express, Postgres SQL, Supabase ',
+		siteLink: 'https://realtnic.vercel.app' || 'https://realtnic.com',
+		codeLink: 'https://github.com/',
+		image: '/projects/realtnic.png',
+	},
 ];
